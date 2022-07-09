@@ -45,10 +45,6 @@ $ pip freeze > requirements.txt			Simpan info seluruh package kedalam file requi
 
 $ python app.py					Run project cabai-classifier, buka di default : http://127.0.0.1:5000/
 
-=============================================================================================================================
-STEP 3 : DEPLOY FLASK APP ON HEROKU		Sumber: https://www.youtube.com/watch?v=n1P8B53CCxs 
-=============================================================================================================================
-
 ▷ Daftar dan login Heroku di : https://www.heroku.com/
 ▷ Klik tombol "Create new app", lalu beri nama app dengan nama "anggrek-classifier" (sesuaikan nama jika sudah dipakai)
 ▷ Klik tombol "Open app", maka project akan terbuka secara online, misal: https://cabai.herokuapp.com/
